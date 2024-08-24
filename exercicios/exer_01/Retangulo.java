@@ -1,4 +1,4 @@
-package exercicios.exer_01.entities;
+package exercicios.exer_01;
 
 public class Retangulo {
     public double width;
