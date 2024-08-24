@@ -20,7 +20,7 @@ public class Main {
             System.out.println("enter wich the initial deposit");
              double initial = scan.nextDouble();
              account = new Account(accountNumber, name, initial);
-        }else { account = new Account(accountNumber, name);};
+        }else { account = new Account(accountNumber, name);}
 
         System.out.println(account);
 
