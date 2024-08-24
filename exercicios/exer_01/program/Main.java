@@ -1,6 +1,6 @@
 package exercicios.exer_01.program;
 
-import exercicios.exer_01.Retangulo;
+import exercicios.exer_01.entities.Retangulo;
 
 import java.util.Scanner;
 
